@@ -1,7 +1,7 @@
 from requests import get
 
 urls = [
-    {'link' : 'https://newdaynews.ru/'},
+    {'link' : 'http://www.avito.ru'},
     {'link' : 'https://moskva.mts.ru/personal'},
     {'link' : 'http://golang.com'},
     {'link' : 'https://www.python.org'},
